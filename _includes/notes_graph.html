@@ -64,6 +64,20 @@
         let nodesData = graphData.nodes;
         let linksData = graphData.edges;
 
+        const currentPath = window.location.pathname;
+        const relatedNodesSet = new Set();
+        linksData.forEach((link) => {
+          if (link.source.path === currentPath || link.target.path === currentPath) {
+        relatedNodesSet.add(link.source.id);
+        relatedNodesSet.add(link.target.id);
+          }
+        });
+
+        nodesData = nodesData.filter((node) => relatedNodesSet.has(node.id));
+        linksData = linksData.filter(
+          (link) => relatedNodesSet.has(link.source.id) && relatedNodesSet.has(link.target.id)
+        );
+
         const nodeSize = {};
 
         const updateNodeSize = () => {
