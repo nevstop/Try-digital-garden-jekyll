@@ -1,0 +1,1 @@
+代码上对应了 CSM [条件结构](https://zhida.zhihu.com/search?content_id=233531465&content_type=Article&match_order=1&q=%E6%9D%A1%E4%BB%B6%E7%BB%93%E6%9E%84&zhida_source=entity)中的一个分支。是 CSM的基本[逻辑单元](https://zhida.zhihu.com/search?content_id=233531465&content_type=Article&match_order=1&q=%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83&zhida_source=entity)。CSM 内部不同的状态轮转，完成具体的功能。

@@ -1,0 +1,1 @@
+JKI State Machine 的缩写. 
