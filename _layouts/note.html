@@ -42,6 +42,11 @@ layout: default
 
 <hr>
 
-<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+<!-- introduce per-page mermaid support -->
+{% if page.mermaid %}
+    {% include mermaid.html %}
+{% endif %}
 
+
+<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
 {% include notes_graph.html %}
