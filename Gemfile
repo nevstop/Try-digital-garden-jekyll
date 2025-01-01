@@ -9,3 +9,7 @@ gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyl
 gem "webrick", "~> 1.9"
 gem "nokogiri"
 gem 'jekyll-loading-lazy'
+
+group :jekyll_plugins do
+    gem "jekyll-polyglot"
+end

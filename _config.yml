@@ -23,6 +23,7 @@ relative_permalinks: false
 plugins:
   - jekyll-last-modified-at
   - jekyll-loading-lazy
+  - jekyll-polyglot
 
 sass:
   sass_dir:          _sass
@@ -42,3 +43,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+
+languages: ["en", "zh-cn"]
+default_lang: "zh-cn"
+exclude_from_localization: ["javascript", "images", "css", "public", "assets"]
+parallel_localization: true
