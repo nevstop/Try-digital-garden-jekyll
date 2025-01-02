@@ -2,7 +2,7 @@
 title: CSM Templates
 author: nevstop
 date: 2024-01-08
-layout: post
+layout: note
 lang: en
 page_id: CSM-Templates
 toc: true

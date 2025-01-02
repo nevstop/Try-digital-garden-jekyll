@@ -3,7 +3,7 @@ title: 项目参与
 author: nevstop
 date: 2022-02-20
 category: information
-layout: post
+layout: note
 page_id: contributors
 lang: zh
 permalink: /how-to-contribute

@@ -2,7 +2,7 @@
 title: CSM插件机制
 author: nevstop
 date: 2024-01-01
-layout: post
+layout: note
 lang: zh
 page_id: CSM-Plugin-System
 toc: true

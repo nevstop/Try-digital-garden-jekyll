@@ -2,7 +2,7 @@
 title: CSM 开发模板
 author: nevstop
 date: 2024-01-08
-layout: post
+layout: note
 lang: zh
 page_id: CSM-Templates
 toc: true

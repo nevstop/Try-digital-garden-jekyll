@@ -3,7 +3,7 @@ title: 下载
 author: nevstop
 date: 2022-02-06
 category: information
-layout: post
+layout: note
 lang: zh
 page_id: release-of-csm
 permalink: /release-of-csm

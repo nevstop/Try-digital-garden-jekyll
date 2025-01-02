@@ -3,7 +3,7 @@ title: Pros and Cons
 author: nevstop
 date: 2022-02-07
 category: information
-layout: post
+layout: note
 lang: en
 page_id: framework-compare
 permalink: /pros-and-cons

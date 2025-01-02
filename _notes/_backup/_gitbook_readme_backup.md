@@ -157,7 +157,7 @@ a `cover` field to the page metadata:
   author: Tao He
   date: 2022-05-24
   category: Jekyll
-  layout: post
+  layout: note
 + cover: /assets/jekyll-gitbook/dinosaur.gif
   ---
 ```

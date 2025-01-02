@@ -3,7 +3,7 @@ title: 常见问题解答
 author: nevstop
 date: 2022-02-10
 category: information
-layout: post
+layout: note
 lang: zh
 page_id: csm-faq
 permalink: /FAQ

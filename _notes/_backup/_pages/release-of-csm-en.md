@@ -3,7 +3,7 @@ title: Download
 author: nevstop
 date: 2022-02-06
 category: information
-layout: post
+layout: note
 lang: en
 page_id: release-of-csm
 permalink: /release-of-csm
