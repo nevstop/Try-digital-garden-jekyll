@@ -4,7 +4,7 @@ author: nevstop
 date: 2022-02-10
 category: information
 layout: note
-lang: zh
+lang: zh-cn
 page_id: csm-faq
 permalink: /FAQ
 ---
