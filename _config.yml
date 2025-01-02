@@ -45,6 +45,6 @@ defaults:
       layout: "note"
 
 languages: ["en", "zh-cn"]
-default_lang: "zh-cn"
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "assets"]
 parallel_localization: true

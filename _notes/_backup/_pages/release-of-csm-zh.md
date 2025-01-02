@@ -4,7 +4,7 @@ author: nevstop
 date: 2022-02-06
 category: information
 layout: note
-lang: zh
+lang: zh-cn
 page_id: release-of-csm
 permalink: /release-of-csm
 ---
