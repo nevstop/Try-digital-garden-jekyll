@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*这是一个关于页面。*
+*This is an about page.*
 
-随意告诉世界你所爱的东西！😍
+Feel free to tell the world about what you love! 😍

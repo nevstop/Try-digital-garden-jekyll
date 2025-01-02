@@ -5,17 +5,17 @@ id: home
 permalink: /
 ---
 
-# 欢迎！🌱
+# Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  看看 <span style="font-weight: bold">[[你的第一篇笔记]]</span> 开始你的探索之旅吧。
+  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
 
-这个数字花园模板是免费的、开源的，并且[可以在 GitHub 上找到](https://github.com/maximevaillancourt/digital-garden-jekyll-template)。
+This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-最简单的入门方法是阅读这个[逐步指南，解释如何从头开始设置](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)。
+The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
 
-<strong>最近更新的笔记</strong>
+<strong>Recently updated notes</strong>
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
